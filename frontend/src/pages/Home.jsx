@@ -467,7 +467,7 @@ const Home = () => {
         </h2>
 
         <div className="flex flex-col md:flex-row gap-2  md:h-1/2">
-          <div className="flex flex-col p-5 md:p-10 justify-center  bg-slate-200 text-black w-full md:w-4/10 rounded-md ">
+          <div className="flex flex-col p-5 md:p-10 justify-center  bg-blue-900 text-white w-full md:w-4/10 rounded-md ">
             <div>
               <MdOutlineSpeed size={45} className="" />
               <h2 className="font-primaryFont text-left font-bold text-[30px] md:text-[40px]">
